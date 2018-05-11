@@ -47,5 +47,14 @@ def sumOfTwo(a=[],b=[],v=0):
             return True
     return False
 
-result = sumOfTwo([1,2,3,4],[10,20,30,40], 44)
-print(result)
+#result = sumOfTwo([1,2,3,4],[10,20,30,40], 44)
+#print(result)
+arr = 4
+print(arr.times)
+
+# Write a Python program to change the position of every n-th value with the (n+1)th in a list.
+def convertListOfNumsInOne(list_of_nums):
+    numString = x = int("".join(map(str, list_of_nums)))
+    return numString
+
+convertListOfNumsInOne([1,2,3,4,5])
