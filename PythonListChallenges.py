@@ -23,6 +23,7 @@ collection1 = [4,3,1,4,1]
 
 # reuslt = firstDuplicate(collection1)
 
+##############################################################
 """
 You have two integer arrays, a and b, and an integer target value v. 
 Determine whether there is a pair of numbers, where one number is taken 
@@ -51,7 +52,7 @@ def sumOfTwo(a=[],b=[],v=0):
 
 #result = sumOfTwo([1,2,3,4],[10,20,30,40], 44)
 #print(result)
-
+##############################################################
 # Write a Python program to change the position of every n-th value with the (n+1)th in a list.
 def convertListOfNumsInOne(list_of_nums):
     numString = x = int("".join(map(str, list_of_nums)))
@@ -59,21 +60,26 @@ def convertListOfNumsInOne(list_of_nums):
 
 # convertListOfNumsInOne([1,2,3,4,5])
 
-
+##############################################################
 # Write a Python program to multiplies all the items in a list
 def multiplyAllTheItemsIn(list_input):
     return functools.reduce(lambda a,b: a * b, list_input)
 
 # print(multiplyAllTheItemsIn([2,3,4]))
 
+##############################################################
+# Write a Python program to get the largest number from a list.
+def largestNumFrom(list1):
+    list1.sort()
+    return list1[-1]
+print(largestNumFrom([1,2,2,3,1,3,9,4,2,7]))
 
+def smallestNumFrom(list1):
+    if list1.count == 0: return 0
+    list1.sort()
+    return list1[0]
 
-
-
-
-
-
-
+// print(smallestNumFrom([1,2,2,3,1,3,9,4,2,7]))
 
 
 
