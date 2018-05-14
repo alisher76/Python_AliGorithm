@@ -72,15 +72,31 @@ def multiplyAllTheItemsIn(list_input):
 def largestNumFrom(list1):
     list1.sort()
     return list1[-1]
-print(largestNumFrom([1,2,2,3,1,3,9,4,2,7]))
+# print(largestNumFrom([1,2,2,3,1,3,9,4,2,7]))
 
 def smallestNumFrom(list1):
     if list1.count == 0: return 0
     list1.sort()
     return list1[0]
 
-// print(smallestNumFrom([1,2,2,3,1,3,9,4,2,7]))
+# print(smallestNumFrom([1,2,2,3,1,3,9,4,2,7]))
+
+##############################################################
+
+#  Write a Python program to replace dictionary values with their sum.
 
 
+
+def changeValuesOfDict(dict):
+    for d in list_of_dicts:
+        n1 = d.pop('V')
+        n2 = d.pop('VI')
+        d['V+VI'] = (n1 + n2)/2
+    return list_of_dicts
+    student_details= [
+    {'id' : 1, 'subject' : 'math', 'V' : 70, 'VI' : 82},
+    {'id' : 2, 'subject' : 'math', 'V' : 73, 'VI' : 74},
+    {'id' : 3, 'subject' : 'math', 'V' : 75, 'VI' : 86}
+    ]
 
 
