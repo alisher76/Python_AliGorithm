@@ -31,6 +31,8 @@ class PhonebookTest(unittest.TestCase):
         self.phonebook.add("Ali", "12345")
         self.phonebook.add("Mary", "123")
         self.assertTrue(self.phonebook.is_consistent())
+
+
     # For memory management and should be after all the test ran
     # teardown only runs if the setup is successful
     def tearDown(self):

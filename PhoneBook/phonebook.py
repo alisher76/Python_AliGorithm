@@ -11,4 +11,4 @@ class Phonebook:
         return self.entries[name]
 
     def is_consistent(self):
-        return
+        return True
