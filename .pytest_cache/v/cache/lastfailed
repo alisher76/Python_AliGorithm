@@ -1,0 +1,7 @@
+{
+  "HealthCare_test_Project/test_patient.py::TestPatient::()::test_clash_overlapping_today": true,
+  "HealthCare_test_Project/test_patient.py::TestPatient::()::test_clash_with_one_prescription": true,
+  "HealthCare_test_Project/test_patient.py::TestPatient::()::test_clash_with_two_different_prescriptions": true,
+  "HealthCare_test_Project/test_patient.py::TestPatient::()::test_clash_with_two_prescriptions_for_same_medication": true,
+  "HealthCare_test_Project/test_patient.py::TestPatient::()::test_days_taking": true
+}

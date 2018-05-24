@@ -1,0 +1,17 @@
+[
+  "HealthCare_test_Project/test_patient.py::TestPatient::()::test_clash_with_no_prescription",
+  "HealthCare_test_Project/test_patient.py::TestPatient::()::test_clash_with_one_irrevelevant_prescription",
+  "HealthCare_test_Project/test_patient.py::TestPatient::()::test_clash_with_one_prescription",
+  "HealthCare_test_Project/test_patient.py::TestPatient::()::test_clash_with_two_different_prescriptions",
+  "HealthCare_test_Project/test_patient.py::TestPatient::()::test_clash_with_two_prescriptions_for_same_medication",
+  "HealthCare_test_Project/test_patient.py::TestPatient::()::test_days_taking_for_irrelevant_prescription",
+  "HealthCare_test_Project/test_patient.py::TestPatient::()::test_days_taking",
+  "HealthCare_test_Project/test_patient.py::TestPatient::()::test_clash_overlapping_today",
+  "HealthCare_test_Project/test_prescription.py::TestPrescription::()::test_days_taken_excludes_future_dates",
+  "PhoneBook/test_phonebook.py::PhonebookTest::test_empty_phonebook_is_consistent",
+  "PhoneBook/test_phonebook.py::PhonebookTest::test_lookup_entry_by_name",
+  "PhoneBook/test_phonebook.py::PhonebookTest::test_missing_entry_raises_KeyError",
+  "PhoneBook/test_phonebook.py::PhonebookTest::test_phonebook_with_duplicate_entries_is_consistent",
+  "PhoneBook/test_phonebook.py::PhonebookTest::test_phonebook_with_normal_entries_is_consistent",
+  "PhoneBook/test_phonebook.py::PhonebookTest::test_phonebook_with_number_prefix_one_is_consistent"
+]
