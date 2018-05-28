@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7abfde59-ed75-4520-9810-99077cc72ca3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/anagram/array_sequence_anagram.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/array_pair_sum/array_pair_sum.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/find_missing_num/find_missing_num.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Data_type_based_tasks/Array/Dynamic Array.ipynb" afterPath="$PROJECT_DIR$/Data_type_based_tasks/Array/Dynamic Array.ipynb" />
-      <change beforePath="$PROJECT_DIR$/Data_type_based_tasks/Array/py_sourcecode/Dynamic+Array+Exercise.py" afterPath="$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/Dynamic+Array+Exercise.py" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +19,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="array_sequence_anagram.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="array_sequence_anagram.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/anagram/array_sequence_anagram.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
+            <state relative-caret-position="795">
               <caret line="53" column="51" lean-forward="true" selection-start-line="53" selection-start-column="51" selection-end-line="53" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="array_pair_sum.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/array_pair_sum/array_pair_sum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1140">
+              <caret line="76" column="8" lean-forward="false" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="find_missing_num.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/find_missing_num/find_missing_num.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="98" column="2" lean-forward="true" selection-start-line="98" selection-start-column="2" selection-end-line="98" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -66,6 +85,8 @@
         <option value="$PROJECT_DIR$/HealthCare_test_Project/test_prescription.py" />
         <option value="$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/array_sequence_anagram.py" />
         <option value="$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/anagram/array_sequence_anagram.py" />
+        <option value="$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/array_pair_sum/array_pair_sum.py" />
+        <option value="$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/find_missing_num/find_missing_num.py" />
       </list>
     </option>
   </component>
@@ -119,14 +140,6 @@
               <item name="Array" type="462c0819:PsiDirectoryNode" />
               <item name="py_files" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Python_AliGorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_AliGorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Data_type_based_tasks" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
-              <item name="py_files" type="462c0819:PsiDirectoryNode" />
-              <item name="anagram" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -158,7 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.array_sequence_anagram">
+  <component name="RunManager" selected="Python.find_missing_num">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -218,42 +231,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="TakeHomeProject" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python_AliGorithm" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TakeHomeProject.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python_AliGorithm" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="TestInterview" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -272,6 +249,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="array_pair_sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/array_pair_sum" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_AliGorithm" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/array_pair_sum/array_pair_sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="array_sequence_anagram" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -285,6 +280,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_AliGorithm" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/anagram/array_sequence_anagram.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="find_missing_num" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/find_missing_num" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_AliGorithm" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/find_missing_num/find_missing_num.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -331,19 +344,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.TakeHomeProject" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Test" />
-      <item index="2" class="java.lang.String" itemvalue="Python.CodingChallenge" />
-      <item index="3" class="java.lang.String" itemvalue="Python.TestInterview" />
-      <item index="4" class="java.lang.String" itemvalue="Python.array_sequence_anagram" />
+      <item index="0" class="java.lang.String" itemvalue="Python.CodingChallenge" />
+      <item index="1" class="java.lang.String" itemvalue="Python.TestInterview" />
+      <item index="2" class="java.lang.String" itemvalue="Python.array_sequence_anagram" />
+      <item index="3" class="java.lang.String" itemvalue="Python.array_pair_sum" />
+      <item index="4" class="java.lang.String" itemvalue="Python.find_missing_num" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.array_sequence_anagram" />
-        <item index="1" class="java.lang.String" itemvalue="Python.TestInterview" />
-        <item index="2" class="java.lang.String" itemvalue="Python.CodingChallenge" />
-        <item index="3" class="java.lang.String" itemvalue="Python.TakeHomeProject" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Test" />
+        <item index="0" class="java.lang.String" itemvalue="Python.find_missing_num" />
+        <item index="1" class="java.lang.String" itemvalue="Python.array_pair_sum" />
+        <item index="2" class="java.lang.String" itemvalue="Python.array_sequence_anagram" />
+        <item index="3" class="java.lang.String" itemvalue="Python.TestInterview" />
+        <item index="4" class="java.lang.String" itemvalue="Python.CodingChallenge" />
       </list>
     </recent_temporary>
   </component>
@@ -374,7 +387,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21954674" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21954674" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286119" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -402,24 +415,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HealthCare_test_Project/patient.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HealthCare_test_Project/test_patient.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#36#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HealthCare_test_Project/prescription.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -724,8 +719,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/anagram/array_sequence_anagram.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
+        <state relative-caret-position="795">
           <caret line="53" column="51" lean-forward="true" selection-start-line="53" selection-start-column="51" selection-end-line="53" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/array_pair_sum/array_pair_sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="76" column="8" lean-forward="false" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/find_missing_num/find_missing_num.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="98" column="2" lean-forward="true" selection-start-line="98" selection-start-column="2" selection-end-line="98" selection-end-column="2" />
           <folding />
         </state>
       </provider>
