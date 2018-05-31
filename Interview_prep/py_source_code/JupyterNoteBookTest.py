@@ -1,20 +1,9 @@
 
-# coding: utf-8
-
-# # Test Jupyter Notebook 
 # ### Problem
 # 
 # Add two numbers 
-
-# In[2]:
-
-
 def sumTwoNumbers(a,b):
     return a + b
-
-
-# In[4]:
-
 
 from nose.tools import assert_equal 
 
@@ -34,4 +23,3 @@ t1.test01(sumTwoNumbers)
 
 t2 = SolutionTest()
 t1.test02(sumTwoNumbers)
-
