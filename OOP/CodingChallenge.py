@@ -10,7 +10,6 @@ class Fruit:
         return "Name: {}, Price: {}".format(self.name, self.price)
 
 
-
 banana = Fruit("Banana", 10)
 apple = Fruit("Apple", 5)
 strawberry = Fruit("Strawberry", 2)

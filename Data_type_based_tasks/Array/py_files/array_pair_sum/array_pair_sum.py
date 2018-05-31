@@ -18,7 +18,6 @@ Solution
 Fill out your solution below:
 """
 
-
 """
 Solution
 The O(N) algorithm uses the set data structure. 
@@ -61,9 +60,6 @@ def pair_sum(arr,k):
     return len(output)
     # Nice one-liner for printing output
     #return '\n'.join(map(str,list(output)))
-
-
-
 
 # Test Your Solution
 """

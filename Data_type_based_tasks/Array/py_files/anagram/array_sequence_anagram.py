@@ -64,5 +64,3 @@ class AnagramTest(object):
 # Run Tests
 t = AnagramTest()
 t.test(anagram2)
-
-
