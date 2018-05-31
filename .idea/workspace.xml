@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7abfde59-ed75-4520-9810-99077cc72ca3" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Data_type_based_tasks/String/sentence_reversal.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/anagram/array_sequence_anagram.py" afterPath="$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/anagram/array_sequence_anagram.py" />
-      <change beforePath="$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/array_pair_sum/array_pair_sum.py" afterPath="$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/array_pair_sum/array_pair_sum.py" />
-      <change beforePath="$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/find_missing_num/find_missing_num.py" afterPath="$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/find_missing_num/find_missing_num.py" />
-      <change beforePath="$PROJECT_DIR$/OOP/CodingChallenge.py" afterPath="$PROJECT_DIR$/OOP/CodingChallenge.py" />
+      <change beforePath="$PROJECT_DIR$/Data_type_based_tasks/Array/Largest Continuous Sum.ipynb" afterPath="$PROJECT_DIR$/Data_type_based_tasks/Array/Largest Continuous Sum.ipynb" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,11 +59,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="llargest_continues_sum.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="llargest_continues_sum.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/llargest_continues_sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="39">
-              <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="414">
+              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sentence_reversal.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Data_type_based_tasks/String/sentence_reversal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -115,6 +123,7 @@
         <option value="$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/array_pair_sum/array_pair_sum.py" />
         <option value="$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/find_missing_num/find_missing_num.py" />
         <option value="$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/llargest_continues_sum.py" />
+        <option value="$PROJECT_DIR$/Data_type_based_tasks/String/sentence_reversal.py" />
       </list>
     </option>
   </component>
@@ -154,43 +163,6 @@
               <item name="Python_AliGorithm" type="462c0819:PsiDirectoryNode" />
               <item name="Data_type_based_tasks" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Python_AliGorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_AliGorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Data_type_based_tasks" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_AliGorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_AliGorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Data_type_based_tasks" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
-              <item name="py_files" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_AliGorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_AliGorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Data_type_based_tasks" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
-              <item name="py_files" type="462c0819:PsiDirectoryNode" />
-              <item name="anagram" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_AliGorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_AliGorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Data_type_based_tasks" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
-              <item name="py_files" type="462c0819:PsiDirectoryNode" />
-              <item name="array_pair_sum" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_AliGorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_AliGorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Data_type_based_tasks" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
-              <item name="py_files" type="462c0819:PsiDirectoryNode" />
-              <item name="find_missing_num" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -223,7 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.llargest_continues_sum">
+  <component name="RunManager" selected="Python.sentence_reversal">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -264,24 +236,6 @@
       </option>
       <envs />
       <patterns />
-    </configuration>
-    <configuration name="TestInterview" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python_AliGorithm" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestInterview.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="array_pair_sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -355,6 +309,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="sentence_reversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data_type_based_tasks/String" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_AliGorithm" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data_type_based_tasks/String/sentence_reversal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -396,19 +368,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.TestInterview" />
-      <item index="1" class="java.lang.String" itemvalue="Python.array_sequence_anagram" />
-      <item index="2" class="java.lang.String" itemvalue="Python.array_pair_sum" />
-      <item index="3" class="java.lang.String" itemvalue="Python.find_missing_num" />
-      <item index="4" class="java.lang.String" itemvalue="Python.llargest_continues_sum" />
+      <item index="0" class="java.lang.String" itemvalue="Python.array_sequence_anagram" />
+      <item index="1" class="java.lang.String" itemvalue="Python.array_pair_sum" />
+      <item index="2" class="java.lang.String" itemvalue="Python.find_missing_num" />
+      <item index="3" class="java.lang.String" itemvalue="Python.llargest_continues_sum" />
+      <item index="4" class="java.lang.String" itemvalue="Python.sentence_reversal" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.llargest_continues_sum" />
-        <item index="1" class="java.lang.String" itemvalue="Python.find_missing_num" />
-        <item index="2" class="java.lang.String" itemvalue="Python.array_pair_sum" />
-        <item index="3" class="java.lang.String" itemvalue="Python.array_sequence_anagram" />
-        <item index="4" class="java.lang.String" itemvalue="Python.TestInterview" />
+        <item index="0" class="java.lang.String" itemvalue="Python.sentence_reversal" />
+        <item index="1" class="java.lang.String" itemvalue="Python.llargest_continues_sum" />
+        <item index="2" class="java.lang.String" itemvalue="Python.find_missing_num" />
+        <item index="3" class="java.lang.String" itemvalue="Python.array_pair_sum" />
+        <item index="4" class="java.lang.String" itemvalue="Python.array_sequence_anagram" />
       </list>
     </recent_temporary>
   </component>
@@ -439,7 +411,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21954674" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21954674" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286119" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -467,13 +439,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PhoneBook/phonebook.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PhoneBook/test_phonebook.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
@@ -673,8 +638,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/llargest_continues_sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="18" />
+        <state relative-caret-position="414">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data_type_based_tasks/String/sentence_reversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
           <folding />
         </state>
       </provider>
