@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7abfde59-ed75-4520-9810-99077cc72ca3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Data_type_based_tasks/String/py_files/unique_characters.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Stacks-Queues-Deques/py_files/stacks.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ChaseTest/TakeHomeProject.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ChaseTest/TestInterview.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ChaseTest/test_python.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Data_type_based_tasks/Array/Dynamic Array.ipynb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Data_type_based_tasks/PythonListChallenges.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Data_type_based_tasks/String Compression -SOLUTION.ipynb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HealthCare_test_Project/patient.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HealthCare_test_Project/prescription.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HealthCare_test_Project/test_patient.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HealthCare_test_Project/test_prescription.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Interview_prep/.ipynb_checkpoints/JupyterNoteBookTest-checkpoint.ipynb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Interview_prep/JupyterNoteBookTest.ipynb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Interview_prep/py_source_code/JupyterNoteBookTest.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/phonebook.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PhoneBook/test_phonebook.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Tasks/InterviewQA.py" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,81 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="array_sequence_anagram.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/anagram/array_sequence_anagram.py">
+      <file leaf-file-name="stacks.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Stacks-Queues-Deques/py_files/stacks.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="795">
-              <caret line="53" column="26" lean-forward="false" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="array_pair_sum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/array_pair_sum/array_pair_sum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1080">
-              <caret line="72" column="8" lean-forward="false" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dynamic+Array+Exercise.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/Dynamic+Array+Exercise.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="find_missing_num.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/find_missing_num/find_missing_num.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1680">
-              <caret line="112" column="0" lean-forward="false" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="llargest_continues_sum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/llargest_continues_sum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sentence_reversal.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data_type_based_tasks/String/py_files/sentence_reversal.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="string_compression.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data_type_based_tasks/String/py_files/string_compression.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="3" lean-forward="false" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="unique_characters.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Data_type_based_tasks/String/py_files/unique_characters.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="25" lean-forward="false" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+            <state relative-caret-position="466">
+              <caret line="73" column="14" lean-forward="false" selection-start-line="73" selection-start-column="14" selection-end-line="73" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -162,6 +76,8 @@
         <option value="$PROJECT_DIR$/Data_type_based_tasks/String/py_files/sentence_reversal.py" />
         <option value="$PROJECT_DIR$/Data_type_based_tasks/String/py_files/string_compression.py" />
         <option value="$PROJECT_DIR$/Data_type_based_tasks/String/py_files/unique_characters.py" />
+        <option value="$PROJECT_DIR$/Stacks-Queues-Deques/stacks.py" />
+        <option value="$PROJECT_DIR$/Stacks-Queues-Deques/py_files/stacks.py" />
       </list>
     </option>
   </component>
@@ -189,8 +105,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -201,27 +119,18 @@
             <path>
               <item name="Python_AliGorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_AliGorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Data_type_based_tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="Stacks-Queues-Deques" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_AliGorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_AliGorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Data_type_based_tasks" type="462c0819:PsiDirectoryNode" />
-              <item name="String" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_AliGorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_AliGorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Data_type_based_tasks" type="462c0819:PsiDirectoryNode" />
-              <item name="String" type="462c0819:PsiDirectoryNode" />
+              <item name="Stacks-Queues-Deques" type="462c0819:PsiDirectoryNode" />
               <item name="py_files" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -230,6 +139,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Stacks-Queues-Deques/py_files" />
       <recent name="$PROJECT_DIR$/Data_type_based_tasks/String" />
       <recent name="$PROJECT_DIR$/Data_type_based_tasks/String/py_files" />
       <recent name="$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/anagram" />
@@ -248,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.unique_characters">
+  <component name="RunManager" selected="Python.stacks">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -290,24 +200,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="find_missing_num" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/find_missing_num" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python_AliGorithm" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data_type_based_tasks/Array/py_files/find_missing_num/find_missing_num.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="llargest_continues_sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -339,6 +231,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_AliGorithm" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data_type_based_tasks/String/py_files/sentence_reversal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="stacks" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stacks-Queues-Deques" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_AliGorithm" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stacks-Queues-Deques/py_files/stacks.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -421,19 +331,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.find_missing_num" />
-      <item index="1" class="java.lang.String" itemvalue="Python.llargest_continues_sum" />
-      <item index="2" class="java.lang.String" itemvalue="Python.sentence_reversal" />
-      <item index="3" class="java.lang.String" itemvalue="Python.string_compression" />
-      <item index="4" class="java.lang.String" itemvalue="Python.unique_characters" />
+      <item index="0" class="java.lang.String" itemvalue="Python.llargest_continues_sum" />
+      <item index="1" class="java.lang.String" itemvalue="Python.sentence_reversal" />
+      <item index="2" class="java.lang.String" itemvalue="Python.string_compression" />
+      <item index="3" class="java.lang.String" itemvalue="Python.unique_characters" />
+      <item index="4" class="java.lang.String" itemvalue="Python.stacks" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.unique_characters" />
-        <item index="1" class="java.lang.String" itemvalue="Python.string_compression" />
-        <item index="2" class="java.lang.String" itemvalue="Python.sentence_reversal" />
-        <item index="3" class="java.lang.String" itemvalue="Python.llargest_continues_sum" />
-        <item index="4" class="java.lang.String" itemvalue="Python.find_missing_num" />
+        <item index="0" class="java.lang.String" itemvalue="Python.stacks" />
+        <item index="1" class="java.lang.String" itemvalue="Python.unique_characters" />
+        <item index="2" class="java.lang.String" itemvalue="Python.string_compression" />
+        <item index="3" class="java.lang.String" itemvalue="Python.sentence_reversal" />
+        <item index="4" class="java.lang.String" itemvalue="Python.llargest_continues_sum" />
       </list>
     </recent_temporary>
   </component>
@@ -455,6 +365,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="189" y="30" width="1152" height="778" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -463,12 +374,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14589235" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14589235" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286119" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19618055" sideWeight="0.49156117" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19618055" sideWeight="0.49156117" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -491,7 +402,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HealthCare_test_Project/prescription.py" />
     <entry file="file://$PROJECT_DIR$/HealthCare_test_Project/test_prescription.py" />
     <entry file="file://$PROJECT_DIR$/PhoneBook/phonebook.py" />
     <entry file="file://$PROJECT_DIR$/PhoneBook/test_phonebook.py" />
@@ -592,8 +502,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Data_type_based_tasks/String/py_files/unique_characters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="25" lean-forward="false" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+        <state relative-caret-position="255">
+          <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stacks-Queues-Deques/py_files/stacks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="73" column="14" lean-forward="false" selection-start-line="73" selection-start-column="14" selection-end-line="73" selection-end-column="14" />
           <folding />
         </state>
       </provider>
