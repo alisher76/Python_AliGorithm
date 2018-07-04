@@ -29,3 +29,14 @@ a.nextNode = b
 b.nextNode = c
 print(a.nextNode.value)
 print(b.nextNode.value)
+"""
+Advantages
+
+It’s a dynamic data structure in which insertion and deletion are simple as we don’t need to shift the elements. 
+Just updating the next pointer will do the job for us.
+Stack and Queue data structures can be easily implemented using linked lists.
+Disadvantages
+
+Additional memory is used up by the next pointers.
+Random access is not possible. You must traverse the linked list from the beginning to get to a particular node.
+"""
